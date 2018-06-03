@@ -4,7 +4,7 @@ This project intends to instruct Flutter developers to use Speech Recognition.
 
 This project gives credit to [rxlabz/sytody](https://github.com/rxlabz/sytody)
 
-[X] Android Setup
+Android Setup
 
 1. The first thing you should do is add permission in AndroidManifest.xml in [android/app/src/main](./android/app/src/main/AndroidManifest.xml)
 
@@ -18,6 +18,6 @@ This project gives credit to [rxlabz/sytody](https://github.com/rxlabz/sytody)
 
 6. Add custom layout and styling to your flutter frontend.
 
-[ ] IOS Setup
+IOS Setup
 
-1. Not implemented yet.
+* Not implemented yet.
