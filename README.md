@@ -23,4 +23,4 @@ IOS Setup
 * Not implemented yet.
 
 ---
-** For this feature to work correctly, you may need to have Google App run in the background. **
+**For this feature to work correctly, you may need to have Google App run in the background.**
